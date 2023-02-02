@@ -8,6 +8,7 @@
 | IRFAN AMRAN | 1923607     |
  
 ## Title: Flood and Weather forecast mobile application
+
 ### Project Name: S-Guard
 
 ## Introduction:
@@ -30,6 +31,8 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
 
 **Sequence diagram:**
 
+![f51ade0ee5427f53fe4a22b75e19880](https://user-images.githubusercontent.com/55783251/216438139-3f1ddf40-b961-4f04-9d77-59aa0c562dc3.png)
+
 
 **Plugins:**
   1. cloud_firestore: ^4.3.1
@@ -45,19 +48,20 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
   11. sleek_circular_slider: ^2.0.1
   
 **ScreenShorts**
-  1.Login Page
+
+  1. Login Page
   
   ![48b27e69a7aec79b6b46dae5315adbf](https://user-images.githubusercontent.com/55783251/216432213-1a105ed4-8c1f-4f66-83f1-442321996d57.png)
 
-  2.Register Page
+  2. Register Page
   
   ![394186cc7b0993526abdb567d68fa2c](https://user-images.githubusercontent.com/55783251/216432290-9343a72c-4a12-4eb3-8cf2-3d80dc2865b8.png)
 
-  3.Main Page 1
+  3. Main Page 1
   
   ![74f059a603417c6423e5b8f30afd489](https://user-images.githubusercontent.com/55783251/216432366-cdd0068a-1f2b-42a6-878c-913d5784fa51.png)
 
-  4.Main Page 2
+  4. Main Page 2
   
   ![f59b52c346c5c0e60a76b36a8fcb307](https://user-images.githubusercontent.com/55783251/216432425-21252db7-f277-47d5-9357-c5f6cbf7ca91.png)
 
