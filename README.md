@@ -11,13 +11,13 @@
 ### Project Name: K-checking
 
 **Introduction:**
-This app is going to be a study app, the user can choose any subject that we give in the app for the knowledge test, for example, math, C++ or English grammer test. And for the user, can then sign in it with their Google account.
+The app, which is based on Android, shows users the current temperature, weather conditions, and the likelihood of flooding. The software obtains the data required by the software by calling the API of [https://openweather.com](https://openweather.com), such as the weather conditions, current temperature, current wind speed, and the weather conditions within 7 days, and then to calculate the probability of flood occurrence according to the algorithm and displays them to the user. (Since the algorithm of flood probability is too complicated and the data required is too large, the data provided by this software is only for reference)
 
 **Objective:**
-K-checking makes learning easier and easier for users.
+A natural disaster is a major threat to human society, and in Malaysia, a flood is a major natural disaster that threatens people's life and property. As ordinary people, it is very difficult to predict flood, because it needs to involve a huge number of factors. The goal of our software is to analyze weather forecast data and then calculate the data to provide users with the probability of flooding. We are committed to protecting the lives of everyone who has been or will be threatened by flooding.
 
 **Features & Functionalities:**
-1. Google account API reference
+:man_health_worker: User authentication: allowing users to sign up and log into the app using their credentials
 2. Error Handling
 3. Router
 4. Form?
