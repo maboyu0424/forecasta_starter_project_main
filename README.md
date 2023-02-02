@@ -71,8 +71,6 @@ Build apps for any screen. Flutter. (n.d.). Retrieved January 11, 2023, from htt
 
 Free icons and stickers - millions of images to download. Flaticon. (n.d.). Retrieved February 2, 2023, from https://www.flaticon.com/ 
 
-Gülcüoğlu, E. , Ustun, A. B. & Seyhan, N. (2021). Comparison of Flutter and React Native Platforms . Journal of Internet Applications and Management , 12 (2) , 129-143 . DOI: 10.34231/iuyd.888243
-
 OpenWeatherMap.org. (n.d.). Сurrent weather and forecast - OpenWeatherMap. https://openweathermap.org/
 
 Postman. (n.d.). https://www.postman.com/
