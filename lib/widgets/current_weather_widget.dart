@@ -14,6 +14,9 @@ class CurrentWeatherWidget extends StatelessWidget {
       children: [
         //Temperature area
         temperatureAreaWidget(),
+        const SizedBox(
+          height: 10,
+        ),
 
         //more details- wind speed,humidity,clouds
         currentWeatherMoreDetailsWidget(),
@@ -90,6 +93,9 @@ class CurrentWeatherWidget extends StatelessWidget {
               ),
             )
           ],
+        ),
+        const SizedBox(
+          height: 10,
         ),
       ],
     );

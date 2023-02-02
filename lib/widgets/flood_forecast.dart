@@ -42,7 +42,7 @@ class FloodForecast extends StatelessWidget {
                   max: 100,
                   initialValue:
                       // getFloodRate()
-                      100,
+                      50,
                   appearance: CircularSliderAppearance(
                     animationEnabled: true,
                     size: 140,
