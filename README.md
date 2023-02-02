@@ -7,8 +7,8 @@
 | Maboyu      | 1711575     |
 | IRFAN AMRAN | 1923607     |
  
-## Title: Knowledge Checking mobile application
-### Project Name: K-checking
+## Title: Flood and Weather forecast mobile application
+### Project Name: S-Guard
 
 ## Introduction:
 
@@ -32,29 +32,33 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
 
 
 **Plugins:**
-  1.cloud_firestore: ^4.3.1
-  2.cupertino_icons: ^1.0.2
-  3.firebase_auth: ^4.2.5
-  4.firebase_core: ^2.4.1
-  5.geocoding: ^2.0.5
-  6.geolocator: ^9.0.2
-  7.get: ^4.6.5
-  8.http: ^0.13.5
-  9.intl: ^0.17.0
-  10.shared_preferences: ^2.0.17
-  11.sleek_circular_slider: ^2.0.1
+  1. cloud_firestore: ^4.3.1
+  2. cupertino_icons: ^1.0.2
+  3. firebase_auth: ^4.2.5
+  4. firebase_core: ^2.4.1
+  5. geocoding: ^2.0.5
+  6. geolocator: ^9.0.2
+  7. get: ^4.6.5
+  8. http: ^0.13.5
+  9. intl: ^0.17.0
+  10. shared_preferences: ^2.0.17
+  11. sleek_circular_slider: ^2.0.1
   
 **ScreenShorts**
   1.Login Page
+  
   ![48b27e69a7aec79b6b46dae5315adbf](https://user-images.githubusercontent.com/55783251/216432213-1a105ed4-8c1f-4f66-83f1-442321996d57.png)
 
   2.Register Page
+  
   ![394186cc7b0993526abdb567d68fa2c](https://user-images.githubusercontent.com/55783251/216432290-9343a72c-4a12-4eb3-8cf2-3d80dc2865b8.png)
 
   3.Main Page 1
+  
   ![74f059a603417c6423e5b8f30afd489](https://user-images.githubusercontent.com/55783251/216432366-cdd0068a-1f2b-42a6-878c-913d5784fa51.png)
 
   4.Main Page 2
+  
   ![f59b52c346c5c0e60a76b36a8fcb307](https://user-images.githubusercontent.com/55783251/216432425-21252db7-f277-47d5-9357-c5f6cbf7ca91.png)
 
 
