@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712750630969",
+    "project_id": "weatherapp-flood",
+    "storage_bucket": "weatherapp-flood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712750630969:android:235e90f1ddb2443aafe5e8",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp_starter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712750630969-maualpv6lm1p949hflj3hj8r02jik2nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITfTEt_DeFmm0HJwMz6qM0vCL1A4MTRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712750630969-maualpv6lm1p949hflj3hj8r02jik2nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
