@@ -19,7 +19,7 @@ The app, which is based on Android, shows users the current temperature, weather
 
 A natural disaster is a major threat to human society, and in Malaysia, a flood is a major natural disaster that threatens people's life and property. As ordinary people, it is very difficult to predict flood, because it needs to involve a huge number of factors. The goal of our software is to analyze weather forecast data and then calculate the data to provide users with the probability of flooding. We are committed to protecting the lives of everyone who has been or will be threatened by flooding.
 
-### Features & Functionalities:
+## Features & Functionalities:
 
 :man_health_worker:  User authentication: allowing users to sign up and log into the app using their credentials
 
@@ -29,12 +29,12 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
 
 
 
-**Sequence diagram:**
+## Sequence diagram:
 
 ![f51ade0ee5427f53fe4a22b75e19880](https://user-images.githubusercontent.com/55783251/216438139-3f1ddf40-b961-4f04-9d77-59aa0c562dc3.png)
 
 
-**Plugins:**
+## Plugins:
   1. cloud_firestore: ^4.3.1
   2. cupertino_icons: ^1.0.2
   3. firebase_auth: ^4.2.5
@@ -47,7 +47,7 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
   10. shared_preferences: ^2.0.17
   11. sleek_circular_slider: ^2.0.1
   
-**ScreenShorts**
+## ScreenShorts
 
   1. Login Page
   
@@ -66,38 +66,13 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
   ![f59b52c346c5c0e60a76b36a8fcb307](https://user-images.githubusercontent.com/55783251/216432425-21252db7-f277-47d5-9357-c5f6cbf7ca91.png)
 
 
-**Reference:**
+## Reference:
 Build apps for any screen. Flutter. (n.d.). Retrieved January 11, 2023, from https://flutter.dev/
 
 Free icons and stickers - millions of images to download. Flaticon. (n.d.). Retrieved February 2, 2023, from https://www.flaticon.com/ 
 
 Gülcüoğlu, E. , Ustun, A. B. & Seyhan, N. (2021). Comparison of Flutter and React Native Platforms . Journal of Internet Applications and Management , 12 (2) , 129-143 . DOI: 10.34231/iuyd.888243
 
+OpenWeatherMap.org. (n.d.). Сurrent weather and forecast - OpenWeatherMap. https://openweathermap.org/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Postman. (n.d.). https://www.postman.com/
