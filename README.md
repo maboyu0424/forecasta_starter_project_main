@@ -31,7 +31,8 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
 
 ## Sequence diagram:
 
-![f51ade0ee5427f53fe4a22b75e19880](https://user-images.githubusercontent.com/55783251/216438139-3f1ddf40-b961-4f04-9d77-59aa0c562dc3.png)
+![image](https://user-images.githubusercontent.com/55783251/216502198-b919add7-d041-4612-a08d-fc404a6255da.png)
+
 
 
 ## Plugins:
