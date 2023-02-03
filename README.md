@@ -27,6 +27,7 @@ A natural disaster is a major threat to human society, and in Malaysia, a flood 
 
 :clock1230:  Push notifications: sending real-time weather info updates to users
 
+🌊:  Risk of flood calculation
 
 
 ## Sequence diagram:
